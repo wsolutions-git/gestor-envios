@@ -3,4 +3,4 @@ dist/*
 src/.env
 *.sh
 sql
-src/
+
